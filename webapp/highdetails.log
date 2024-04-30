@@ -1,0 +1,97 @@
+[2024-04-29T13:56:09.130349+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T13:56:45.454599+02:00] highdetailLog.ERROR: Failed to connect to DB in verifyLogin {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T13:57:08.743244+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T13:57:11.016234+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T13:57:11.795524+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T13:57:12.401441+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T13:57:12.934600+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:00:55.826072+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:00:56.793178+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:01:19.190406+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:01:19.842710+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:04:20.096644+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:04:21.126267+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:04:21.986743+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:05:09.075371+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:07:02.858447+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:13:38.350743+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:13:45.631392+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:18:58.166194+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:18:59.162741+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:18:59.710375+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:19:00.054054+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:19:00.312393+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:19:00.504039+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T14:19:00.676630+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:05:37.702351+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:05:40.292683+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:05:41.308389+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:18:31.568899+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:18:33.378433+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:35:42.661514+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:35:44.348007+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:35:45.296917+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":2002,"message":"No such file or directory","IP":"192.168.65.1"}
+[2024-04-29T16:41:29.634197+02:00] highdetailLog.WARNING: Incorrect login attempt  {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-29T17:31:19.522819+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.144.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:31:21.422241+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.144.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:36:20.406758+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.160.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:36:21.245700+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.160.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:36:21.919087+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.160.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:39:11.722726+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.192.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:39:13.214589+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.192.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:39:13.868562+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.192.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:41:36.932822+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.224.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:41:38.404581+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.224.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:41:39.355190+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'192.168.224.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:44:31.425419+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'172.18.0.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:44:32.275966+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'172.18.0.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:44:32.860355+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'172.18.0.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:48:24.270078+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'172.21.0.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:48:26.256022+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'172.21.0.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:48:27.103022+02:00] highdetailLog.ERROR: Failed to get book list from DB {"error":1045,"message":"Access denied for user 'root'@'172.21.0.3' (using password: YES)","IP":"192.168.65.1"}
+[2024-04-29T17:51:33.409087+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-29T17:52:09.591697+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T17:52:11.481948+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T17:52:12.339267+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T17:52:28.874102+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T18:01:55.784577+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-29T18:02:04.607046+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T18:02:15.103580+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T18:02:47.333426+02:00] highdetailLog.WARNING: User not logged in while in orders {"IP":"192.168.65.1"}
+[2024-04-29T18:04:08.343435+02:00] highdetailLog.ERROR: Password changed correctly, confirmation email not sent {"mail":null,"IP":"192.168.65.1"}
+[2024-04-29T18:07:55.537070+02:00] highdetailLog.INFO: User not logged in while in checkout {"IP":"192.168.65.1"}
+[2024-04-30T08:41:54.243806+02:00] highdetailLog.INFO: User not logged in while in checkout {"IP":"192.168.65.1"}
+[2024-04-30T08:50:15.925955+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T08:52:21.444465+02:00] highdetailLog.INFO: Order placed successfully {"email":"giacom0@localhost.com","orderid":518222,"IP":"192.168.65.1"}
+[2024-04-30T08:53:21.459684+02:00] highdetailLog.ERROR: Failed to send email confirmation {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T08:57:01.522441+02:00] highdetailLog.ERROR: Failed to send email {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:06:42.117675+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:06:47.502880+02:00] highdetailLog.INFO: EBook downloaded {"book_id":"1","user_id":6,"IP":"192.168.65.1"}
+[2024-04-30T10:06:55.258622+02:00] highdetailLog.INFO: User logged out {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:06:55.259582+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:07:09.921655+02:00] highdetailLog.WARNING: Reset password for not existing user {"email":"giacom0@locahost.com","IP":"192.168.65.1"}
+[2024-04-30T10:11:36.954138+02:00] highdetailLog.INFO: Password reset link sent to user {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:11:56.419743+02:00] highdetailLog.INFO: Password reset {"userid":6,"IP":"192.168.65.1"}
+[2024-04-30T10:12:09.869455+02:00] highdetailLog.WARNING: Incorrect login attempt  {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:12:24.560104+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:13:24.802948+02:00] highdetailLog.WARNING: Incorrect login attempt  {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:13:39.622158+02:00] highdetailLog.WARNING: Incorrect login attempt  {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:13:51.009858+02:00] highdetailLog.WARNING: Incorrect login attempt  {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:14:06.477544+02:00] highdetailLog.WARNING: Incorrect login attempt  {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:14:20.430540+02:00] highdetailLog.INFO: Password reset link sent to user {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:14:42.153199+02:00] highdetailLog.INFO: Password reset {"userid":6,"IP":"192.168.65.1"}
+[2024-04-30T10:14:57.900432+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:14:59.840835+02:00] highdetailLog.INFO: User logged out {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:14:59.841820+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:15:46.776182+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:31:47.655411+02:00] highdetailLog.INFO: User logged in {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:31:49.908651+02:00] highdetailLog.INFO: EBook downloaded {"book_id":"1","user_id":6,"IP":"192.168.65.1"}
+[2024-04-30T10:32:10.034222+02:00] highdetailLog.INFO: User logged out {"email":"giacom0@localhost.com","IP":"192.168.65.1"}
+[2024-04-30T10:32:10.035007+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:16.685078+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:16.685649+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:17.585045+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:17.585733+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:18.191216+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:18.192071+02:00] highdetailLog.INFO: User logged out {"email":null,"IP":"192.168.65.1"}
+[2024-04-30T10:32:47.261923+02:00] highdetailLog.INFO: Password reset link sent to user {"email":"giacom0@localhost.com","IP":"192.168.65.1"}

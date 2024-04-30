@@ -1,0 +1,18 @@
+localhost {
+	root * /var/www/html/src/ 
+	encode gzip
+	php_fastcgi php:9000 
+	file_server
+	log {
+		output file /data/caddy/logs/caddy.log
+	}
+	handle_errors {
+		rewrite * /var/www/html/src/404.html
+		file_server
+	}
+	header {
+		X-Frame-Options "DENY"
+		-Server
+		-X-Powered-By
+	}
+}

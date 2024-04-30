@@ -1,0 +1,97 @@
+[2024-04-29T13:56:09.129337+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T13:56:45.453998+02:00] lowdetailLog.ERROR: Failed to connect to DB in verifyLogin
+[2024-04-29T13:57:08.742362+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T13:57:11.015651+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T13:57:11.795045+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T13:57:12.400975+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T13:57:12.934143+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:00:55.825540+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:00:56.792667+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:01:19.189885+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:01:19.842013+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:04:20.095365+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:04:21.125191+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:04:21.985665+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:05:09.075018+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:07:02.858006+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:13:38.350331+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:13:45.630759+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:18:58.165682+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:18:59.162252+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:18:59.709921+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:19:00.053553+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:19:00.311777+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:19:00.503527+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T14:19:00.676081+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:05:37.701716+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:05:40.292103+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:05:41.307853+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:18:31.568448+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:18:33.377954+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:35:42.661184+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:35:44.347551+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:35:45.296359+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T16:41:29.633738+02:00] lowdetailLog.WARNING: Incorrect login attempt 
+[2024-04-29T17:31:19.521412+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:31:21.421716+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:36:20.406251+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:36:21.245356+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:36:21.918691+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:39:11.722316+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:39:13.214112+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:39:13.868045+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:41:36.932378+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:41:38.404207+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:41:39.354655+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:44:31.425135+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:44:32.275480+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:44:32.859628+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:48:24.269669+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:48:26.255667+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:48:27.102580+02:00] lowdetailLog.ERROR: Failed to get book list from DB
+[2024-04-29T17:51:33.408606+02:00] lowdetailLog.INFO: User logged in
+[2024-04-29T17:52:09.590784+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T17:52:11.481369+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T17:52:12.338719+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T17:52:28.873321+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T18:01:55.784029+02:00] lowdetailLog.INFO: User logged in
+[2024-04-29T18:02:04.606429+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T18:02:15.102706+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T18:02:47.332768+02:00] lowdetailLog.WARNING: User not logged in while in orders
+[2024-04-29T18:04:08.342984+02:00] lowdetailLog.ERROR: Password changed correctly, confirmation email not sent
+[2024-04-29T18:07:55.536401+02:00] lowdetailLog.INFO: User not logged in while in checkout
+[2024-04-30T08:41:54.242982+02:00] lowdetailLog.INFO: User not logged in while in checkout
+[2024-04-30T08:50:15.925394+02:00] lowdetailLog.INFO: User logged in
+[2024-04-30T08:52:21.444091+02:00] lowdetailLog.INFO: Order placed successfully
+[2024-04-30T08:53:21.459269+02:00] lowdetailLog.ERROR: Failed to send email confirmation
+[2024-04-30T08:57:01.521125+02:00] lowdetailLog.ERROR: Failed to send email
+[2024-04-30T10:06:42.116396+02:00] lowdetailLog.INFO: User logged in
+[2024-04-30T10:06:47.502154+02:00] lowdetailLog.INFO: EBook downloaded
+[2024-04-30T10:06:55.258026+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:06:55.259355+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:07:09.921067+02:00] lowdetailLog.WARNING: Reset password for not existing user
+[2024-04-30T10:11:36.953721+02:00] lowdetailLog.INFO: Password reset link sent to user
+[2024-04-30T10:11:56.419279+02:00] lowdetailLog.INFO: Password reset
+[2024-04-30T10:12:09.869086+02:00] lowdetailLog.WARNING: Incorrect login attempt 
+[2024-04-30T10:12:24.559614+02:00] lowdetailLog.INFO: User logged in
+[2024-04-30T10:13:24.802582+02:00] lowdetailLog.WARNING: Incorrect login attempt 
+[2024-04-30T10:13:39.621795+02:00] lowdetailLog.WARNING: Incorrect login attempt 
+[2024-04-30T10:13:51.009498+02:00] lowdetailLog.WARNING: Incorrect login attempt 
+[2024-04-30T10:14:06.477128+02:00] lowdetailLog.WARNING: Incorrect login attempt 
+[2024-04-30T10:14:20.430138+02:00] lowdetailLog.INFO: Password reset link sent to user
+[2024-04-30T10:14:42.152709+02:00] lowdetailLog.INFO: Password reset
+[2024-04-30T10:14:57.899958+02:00] lowdetailLog.INFO: User logged in
+[2024-04-30T10:14:59.840209+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:14:59.841574+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:15:46.775767+02:00] lowdetailLog.INFO: User logged in
+[2024-04-30T10:31:47.654876+02:00] lowdetailLog.INFO: User logged in
+[2024-04-30T10:31:49.907923+02:00] lowdetailLog.INFO: EBook downloaded
+[2024-04-30T10:32:10.033682+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:10.034838+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:16.684591+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:16.685484+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:17.584480+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:17.585561+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:18.190570+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:18.191872+02:00] lowdetailLog.INFO: User logged out
+[2024-04-30T10:32:47.261626+02:00] lowdetailLog.INFO: Password reset link sent to user
