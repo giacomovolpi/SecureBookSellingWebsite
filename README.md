@@ -14,3 +14,5 @@ We use the latest versions
   - Fabio Piras
   - Guillaume Quint
   - Giacomo Volpi
+## Credits for the dockerization of the project
+  - Giacomo Volpi
